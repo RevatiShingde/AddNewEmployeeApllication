@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstname": "ruhi",
+      "lastname": "reddy",
+      "contact": "3456754656",
+      "address": "maharashtra",
+      "email": "revati@gmail.com",
+      "password": "123er",
+      "confirmPassword": "123e"
+    },
+    {
+      "firstname": "revati",
+      "lastname": "shingde",
+      "contact": "23456",
+      "address": "maharastra",
+      "email": "pooja@gmail.com",
+      "password": null,
+      "confirmPassword": null,
+      "id": 1
+    }
+  ],
+  "resisterUser": [
+    {
+      "id": 1,
+      "firstname": "ruhi",
+      "lastname": "reddy",
+      "contact": "3456754656",
+      "address": "maharashtra",
+      "email": "revati@gmail.com",
+      "password": "123er",
+      "confirmPassword": "123er"
+    },
+    {
+      "firstname": "revati",
+      "lastname": "shingde",
+      "contact": 45678,
+      "address": "Delhi",
+      "email": "pooja@gmail.com",
+      "password": "123456",
+      "confirmPassword": "2345",
+      "id": 2
+    },
+    {
+      "firstname": "revati",
+      "lastname": "shingde",
+      "contact": 34567,
+      "address": "maharastra",
+      "email": "revati@gmail.com",
+      "password": "",
+      "confirmPassword": "23456",
+      "id": 15
+    }
+  ]
+}
